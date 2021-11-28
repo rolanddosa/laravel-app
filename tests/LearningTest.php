@@ -4,7 +4,7 @@ use Tests\TestCase;
 use function PHPUnit\Framework\assertTrue;
 
 $globalString = "global string";
-
+include 'learning/Learning.php';
 
 class LearningTest extends TestCase
 {
